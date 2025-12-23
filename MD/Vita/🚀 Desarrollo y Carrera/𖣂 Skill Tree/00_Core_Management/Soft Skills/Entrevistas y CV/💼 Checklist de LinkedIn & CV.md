@@ -57,3 +57,4 @@
 ## 🔗 Enlaces Vitales
 - [ ] **GitHub:** ¿El README de tus proyectos está completo y en inglés?
 - [ ] **Portafolio Web (Opcional):** ¿Tienes un enlace a tus tesis de inversión publicadas?
+[[Entrevistas y CV]]
