@@ -9,12 +9,10 @@
 ## 🎯 Evaluación
 - [ ] Primer Parcial (30%)
 - [ ] Segundo Parcial (30%)
-- [ ] Proyecto Final (40%) -> [[Proyecto Final Progra I]]
+- [ ] Proyecto Final (40%) -> 
 
 ## 📝 Apuntes por Tema
-* [[Tema 01 - Introducción a C#]]
-* [[Tema 02 - Estructuras de Control]]
-* [[Tema 03 - POO Básica]]
+* 
 
 ## 📅 Tareas Pendientes
 - [ ] Subir práctica de Bucles (Fecha: Viernes 12)

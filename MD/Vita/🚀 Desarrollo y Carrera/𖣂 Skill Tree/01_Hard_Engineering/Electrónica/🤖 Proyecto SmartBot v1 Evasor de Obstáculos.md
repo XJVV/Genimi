@@ -39,4 +39,4 @@ El robot cuenta cuántas veces ha tenido que girar recientemente para no quedars
 ## 🔗 Recursos y Código
 * **Repositorio:** https://github.com/XJVV/Julio-Mechatronics-Projects.git 
 * **Diagrama Original:** [[Diagrama de flujo.drawio]] 
- 
+ [[Electrónica]]
