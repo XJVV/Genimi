@@ -130,5 +130,60 @@ A menudo nos comportamos como Midas, creyendo que la acumulación infinita es el
 
 El mayor riesgo financiero no es ganar poco, sino no saber cuándo parar. Para conservar estas cosas invaluables, la herramienta más potente no es una estrategia de inversión, sino la capacidad de reconocer cuándo se tiene **suficiente**. Solo al establecer ese límite dejamos de asumir riesgos innecesarios que podrían arrebatar aquello que realmente le da sentido a nuestra vida.
 
+
+# 📕 La psicología del dinero
+
+> [!INFO] Metadatos
+> * **Autor:** Morgan Housel
+> * **Temática:** #Finanzas #Psicología #Mindset
+> * **Estado:** 🟡 Leyendo / 🟢 Terminado
+> * **Calificación:** ⭐⭐⭐⭐⭐
+
+## 💡 La Gran Idea (The Elevator Pitch)
+*Si tuviera que resumir este libro en una frase:*
+El éxito financiero no tiene que ver con la inteligencia, sino con el comportamiento. Es mejor ser razonable que ser racional.
+
+## 🗝️ 3 Lecciones Clave (Top Takeaways)
+1.  **Nadie está loco:** La gente toma decisiones con el dinero basándose en sus experiencias generacionales (inflación, guerra), no en Excel.
+2.  **Compounding (Interés Compuesto):** El secreto de Warren Buffett no es solo su rentabilidad, es el *tiempo* (empezó a los 10 años).
+3.  **Suficiente (Enough):** La habilidad financiera más difícil es que la meta deje de moverse.
+
+## 🧠 Modelos Mentales / Conceptos
+*(Conceptos que puedo aplicar a mi Portafolio)*
+* **El hombre en el coche:** Nadie te admira por tu Ferrari, se imaginan a ellos mismos en el Ferrari. -> *Acción: No comprar lujos para impresionar.*
+* **Margen de Error:** Planificar para que tu plan no salga según el plan.
+
+## 💬 Citas Memorables
+> "El dinero compra la libertad de hacer lo que quieras, con quien quieras, durante el tiempo que quieras."
+
+---
+## 🚀 Acciones a Implementar
+- [ ] Aumentar mi fondo de emergencia (Margen de seguridad).
+- [ ] Dejar de mirar el portafolio diario (Largo plazo).
+
+( ... Aquí va todo el resumen pulido que ya tenías ... )
+
+---
+## 🧪 Apuntes Crudos (Bitácora de Lectura)
+*Aquí está el registro original de mis pensamientos mientras leía.*
+
+> [!EXAMPLE]- 📂 Desplegar Notas Originales
+> *(Instrucciones: Pega aquí tus notas sucias. IMPORTANTE: Si pegas mucho texto, asegúrate de que siga dentro de este bloque).*
+>
+> * Pág 12: Nota rápida 1.
+> * Pág 45: Nota rápida 2.
+> 
+> (Si pegas texto nuevo aquí y no se ve dentro de la caja, selecciona el texto y añade un "> " al principio de cada línea).
+> - Selecciona **todo el texto** que quieres meter en la caja.
+>     
+> - Presiona `Ctrl + P` (o `Cmd + P` en Mac).
+>     
+> - Escribe **"Toggle blockquote"** (o "Alternar cita").
+>     
+> - ¡Listo! Obsidian pondrá automáticamente los `>` al principio de cada línea y lo meterá todo en la caja mágica.
+
+
+
+
  [[Libros]]
 
