@@ -1,4 +1,4 @@
-# 🌍 DiosesisSDE: Sistema de Gestión Pastoral
+# 🌍 #Proyectos/DiosesisSDE : Sistema de Gestión Pastoral
 
 > [!WARNING] Estado Actual: 🟡 En Proceso (Esperando Datos)
 > * **Cliente:** Diócesis Local

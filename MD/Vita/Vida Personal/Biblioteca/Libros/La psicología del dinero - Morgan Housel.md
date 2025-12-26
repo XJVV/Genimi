@@ -130,6 +130,8 @@ A menudo nos comportamos como Midas, creyendo que la acumulación infinita es el
 
 El mayor riesgo financiero no es ganar poco, sino no saber cuándo parar. Para conservar estas cosas invaluables, la herramienta más potente no es una estrategia de inversión, sino la capacidad de reconocer cuándo se tiene **suficiente**. Solo al establecer ese límite dejamos de asumir riesgos innecesarios que podrían arrebatar aquello que realmente le da sentido a nuestra vida.
 
+## Capitulo 4: La confusión del interés compuesto 
+*Warren Buffett consiguió 81.500 millones de los 84.500 millones de dólares de su patrimonio neto después de cumplir los sesenta y cinco años. Nuestra mente no está hecha para tales disparates.* 
 
 # 📕 La psicología del dinero
 
